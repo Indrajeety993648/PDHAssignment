@@ -20,7 +20,7 @@ const LoginForm = () => {
             <input
               type="text"
               required
-              className="w-full px-4 py-3 text-white bg-gray-100 border border-transparent rounded focus:outline-none focus:ring-2 focus:ring-green-400"
+              className="w-full px-4 py-3 text-white bg-gray-700 border border-transparent rounded focus:outline-none focus:ring-2 focus:ring-green-400"
             />
           </div>
           
